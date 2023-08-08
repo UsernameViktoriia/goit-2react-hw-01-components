@@ -1,0 +1,29 @@
+[
+  {
+    "id": "id-1",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigZHVqV9nWZY_xr3M7jm970oa7113MQ5JLQ&usqp=CAU",
+    "title": "Galery Opening",
+    "date": "12.07.2023",
+    "time": "12:00",
+    "location": "Kyiv",
+    "description": "Discover an enchanting evening celebrating the world of art at our exclusive gallery opening"
+  },
+  {
+    "id": "id-2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVGju0a_5gieNRUDvBvmwYym8dHxxMQhb_oDW7W-H9Nl2en93M6WucYvFYfNW_vU-amw&usqp=CAU",
+    "title": "Innovation Summit",
+    "date": "12.07.2023",
+    "time": "12:00",
+    "location": "Kyiv",
+    "description": "Engage in a thought-provoking journey of knowledge and collaboration at our Innovation Summit."
+  },
+  {
+    "id": "id-3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWx83YtphFhV-1NjAA9PuPm29eOCQJCIyt2jKSxDTcX5Mmki1JJ9SE8C-RPaXhGyruqi0&usqp=CAU",
+    "title": "Empower Your Creativity",
+    "date": "12.07.2023",
+    "time": "12:00",
+    "location": "Kyiv",
+    "description": "Ignite your creativity and nurture your storytelling skills in our immersive Creative Writing Workshop."
+  }
+]
